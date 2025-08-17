@@ -63,7 +63,7 @@ body {
 
 @media (max-width:767px) {
     .special-headin {
-        font-size: 70px;
+        font-size: 65px;
     }
 
     .special-headin+p {
